@@ -3,7 +3,7 @@
 return [
     'nav-back'          => 'Voltar',
     'nav-new'           => 'Nova Pasta',
-    'nav-upload'        => 'Enviar',
+    'nav-upload'        => 'Upload',
     'nav-thumbnails'    => 'Miniatura',
     'nav-list'          => 'Lista',
 
